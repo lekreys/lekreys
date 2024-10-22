@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lekrey Jerel Jacob Laipiopa</h1>
 <h3 align="center">Hello! I'm an enthusiastic Data Scientist hailing from Indonesia! 🌏</h3>
 
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://www.bing.com/images/search?view=detailV2&ccid=95%2bSGP%2bW&id=0875CF602D739CA6CB335DBEECE8DD1FC3632242&thid=OIP.95-SGP-WgWUpyTnOrSiJJwHaHa&mediaurl=https%3a%2f%2fmedia0.giphy.com%2fmedia%2fbGgsc5mWoryfgKBx1u%2fgiphy.gif&exph=480&expw=480&q=coding+gif+for+github&simid=608004874179404767&FORM=IRPRST&ck=63130103312A97907993A6E9B4443047&selectedIndex=46&itb=0&ajaxhist=0&ajaxserp=0))]
 
 - 🌱 I’m currently learning **Natural Language Processing**
 
