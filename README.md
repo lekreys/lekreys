@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Lekrey Jerel Jacob Laipiopa</h1>
 <h3 align="center">Hello! I'm an enthusiastic Data Scientist hailing from Indonesia! 🌏</h3>
 
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+
 - 🌱 I’m currently learning **Natural Language Processing**
 
 - 💬 Ask me about **Python Programming , Machine Learning , Data Science & Analysis**
