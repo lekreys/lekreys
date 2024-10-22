@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lekrey Jerel Jacob Laipiopa</h1>
 <h3 align="center">Hello! I'm an enthusiastic Data Scientist hailing from Indonesia! 🌏</h3>
 
-<img align="right" alt="Coding" width="300" src="https://github.com/user-attachments/assets/c26b764a-2316-4bed-a1a6-2d1d2413811d">
+<img align="right" alt="Coding" width="200" src="https://github.com/user-attachments/assets/c26b764a-2316-4bed-a1a6-2d1d2413811d">
 
 - 🌱 I’m currently learning **Natural Language Processing**
 
